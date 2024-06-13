@@ -446,6 +446,7 @@ body {
   max-height: 200px;
   box-shadow: 0 0 1px var(--text-color);
   transition: all 0.3s ease;
+  margin: 0 auto;
 }
 
 .teacher-profile {
